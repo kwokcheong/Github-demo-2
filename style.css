@@ -1,0 +1,30 @@
+body{
+    background-color: aliceblue;
+}
+
+div#flex{
+    display: flex;
+    background-color: blue;
+}
+
+ul#menu{
+  
+  height: 35px;
+  padding: 15px;
+  margin: 0px;
+
+}
+
+ul#menu li{
+  color: black;
+  display: inline;
+  margin-left:10px;
+  margin-right:10px;
+}
+
+ul#menu li a{ 
+  text-decoration: none;
+  font-family: Verdana;
+  font-size: 17px;
+  color:grey;
+}
